@@ -18,11 +18,11 @@ Insight Penjualan Indomaret (Hasil Analisis SQL)
 Minuman menjadi kategori dengan total revenue tertinggi, memberikan kontribusi terbesar terhadap penjualan.
 
 2. 5 Produk Terlaris (Berdasarkan Units Sold)
--Milo – 195 unit terjual.
--ABC Kecap Manis – 127 unit terjual.
--Indomie Goreng – 80 unit terjual.
--Sari Roti Tawar – 44 unit terjual.
--Lifebuoy – 30 unit terjual.
+Milo – 195 unit terjual.
+ABC Kecap Manis – 127 unit terjual.
+Indomie Goreng – 80 unit terjual.
+Sari Roti Tawar – 44 unit terjual.
+Lifebuoy – 30 unit terjual.
 
 3. Metode Pembayaran Paling Sering Digunakan adalah Cash. Cash digunakan sebanyak 14 transaksi, lebih banyak dibanding Debit Card yang hanya 9 transaksi.
 
