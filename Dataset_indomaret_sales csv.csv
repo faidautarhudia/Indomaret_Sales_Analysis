@@ -1,0 +1,30 @@
+Transaction_ID,Date,Product_Name,Category,Units_Sold,Unit_Price,Total_Revenue,Store_Location,Payment_Method
+T0001,2025-07-06,Pepsodent Toothpaste,Personal Care,N/A,15000,675000.0,Jagakarsa,Cash
+T0002,2025-07-01,ABC Kecap Manis 620ml,Groceries,60,18000,1080000.0,Jagakarsa,Debit Card
+T0003,2025-07-01,Lifebuoy Body Wash,Personal Care,17,25000,425000.0,Cilandak,Cash
+T0004,2025-07-06,Milo 1kg,Drinks,95,90000,8550000.0,Fatmawati,Cash
+T0005,2025-07-03,Indomie Goreng,Instant Noodles,30,3000,90000.0,Pasar Minggu,Debit Card
+T0006,2025-07-02,Sari Roti Tawar,Snacks,25,12000,300000.0,Jagakarsa,Debit Card
+T0007,2025-07-02,SilverQueen Milk Chocolate,Snacks,43,12000,516000.0,Jagakarsa,Debit Card
+T0008,2025-07-02,Nabati Wafer,Snacks,82,5000,410000.0,Fatmawati,Debit Card
+T0009,2025-07-06,Rexona Deodorant,Personal Care,39,20000,780000.0,Jagakarsa,Cash
+T0010,2025-07-01,Aqua 600ml,Drinks,70,4000,280000.0,Fatmawati,Cash
+T0011,2025-07-06,Sampoerna Mild 16,Smokes,93,30000,2790000.0,Pasar Minggu,Cash
+T0012,2025-07-06,Sari Roti Tawar,Snacks,19,12000,228000.0,Jagakarsa,Cash
+T0013,2025-07-05,Aqua 600ml,Drinks,61,4000,244000.0,Cilandak,Debit Card
+T0014,2025-07-01,SilverQueen Milk Chocolate,Snacks,80,12000,960000.0,Pasar Minggu,Cash
+T0015,2025-07-05,Sedaap Soto,Instant Noodles,41,2800,114800.0,Cilandak,Cash
+T0016,2025-07-04,Lifebuoy Body Wash,Personal Care,29,25000,,Cilandak,Cash
+T0017,2025-07-01,Indomie Goreng,Instant Noodles,52,3000,,Cilandak,Debit Card
+T0018,2025-07-01,Lifebuoy Body Wash,Personal Care,63,25000,1575000.0,Jagakarsa,Cash
+T0019,2025-07-01,Lifebuoy Body Wash,Personal Care,N/A,25000,1900000.0,Pasar Minggu,Debit Card
+T0020,2025-07-02,Rexona Deodorant,Personal Care,74,20000,1480000.0,Cilandak,Cash
+T0021,2025-07-02,Pepsodent Toothpaste,Personal Care,40,15000,600000.0,Pasar Minggu,Debit Card
+T0022,2025-07-05,ABC Kecap Manis 620ml,Groceries,67,18000,1206000.0,Jagakarsa,Cash
+T0023,2025-07-05,Rexona Deodorant,Personal Care,29,20000,580000.0,Cilandak,Debit Card
+T0024,2025-07-01,Pocari Sweat 500ml,Drinks,36,7500,270000.0,Cilandak,Debit Card
+T0025,2025-07-05,Milo 1kg,Drinks,100,90000,9000000.0,Jagakarsa,Cash
+T0026,2025-07-02,SilverQueen Milk Chocolate,Snacks,41,12000,492000.0,Cilandak,Cash
+T0027,2025-07-06,Tolak Angin,Health,13,7000,91000.0,Cilandak,Cash
+T0028,2025-07-06,Pepsodent Toothpaste,Personal Care,25,15000,,Fatmawati,Cash
+T0029,2025-07-06,SilverQueen Milk Chocolate,Snacks,N/A,12000,1008000.0,Jagakarsa,Cash
